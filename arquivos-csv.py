@@ -11,3 +11,8 @@ with open(file=file_path, mode='r',encoding='utf-8',newline='') as f:
 
 
 print(lista)
+
+
+
+from algoritmo import ordenar_numeros_lista
+lista
